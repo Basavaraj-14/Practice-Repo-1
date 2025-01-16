@@ -1,3 +1,3 @@
 # Practice-Repo-1
-Hi I'm Basavaraj D Angadi
+Hi I'm Basavaraj
 Devops Engineer
